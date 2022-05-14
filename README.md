@@ -2,7 +2,7 @@
 
 This repository has several libraries that were customized for the frontend side of Myagi's Desktop platform.
 
-For simplicity's sake, all packages used are within their same named branches and a release generated from tagged with the branch name.
+For simplicity's sake, all packages stored here are within their respective named branches, with a release generated tagged with said branch name.
 
 To use this libraries just reference it in the package.json --> peerDependencies section with the following syntax:
 
