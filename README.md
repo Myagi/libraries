@@ -19,3 +19,13 @@ Example:
   }
 }
 ```
+
+Test:
+
+You can check if a package can be referenced in the package.json file, by trying to manually download the package yourself. The download link structure is the following:
+
+```
+https://codeload.github.com/Myagi/libraries/tar.gz/<TagName>
+```
+for example https://codeload.github.com/Myagi/libraries/tar.gz/fraql
+
